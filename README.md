@@ -4,7 +4,8 @@ Send low-level commands to the Double robot, access the iPad/iPhone camera and a
 
 This code is intended as the basis for Social Robotics assignments to be done by students enrolled in the European Master in Advanced Robotics (EMARO+) and Robotics Engineering master programmes at the University of Genoa, Italy.
 
-This code has been developed with Xcode 10 under macOS 10.14.1 (Mojave), targeting iOS 12.01 and tested with an iPad Air 2.
+This code has been developed with Xcode 10 under macOS 10.14.1 (Mojave), targeting iOS 12.01.
+This code has been tested with an iPad Air 2 running iOS 12.01 and connected to a Double 1 robot.
 
 ## Installation
 
