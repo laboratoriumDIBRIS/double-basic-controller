@@ -1,6 +1,6 @@
 # Basic controller for the Double robot
 
-Send low-level commands to the Double robot, access the iPad/iPhone camera and and utter sentences.
+Send low-level commands to the Double robot, access the camera of the associated iPad/iPhone and utter sentences.
 
 This code is intended as the basis for Social Robotics assignments to be done by students enrolled in the European Master in Advanced Robotics (EMARO+) and Robotics Engineering master programmes at the University of Genoa, Italy.
 
