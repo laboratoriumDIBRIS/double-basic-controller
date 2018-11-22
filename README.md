@@ -1,16 +1,35 @@
 # Basic controller for the Double robot
 
-Send low-level commands to the Double robot, access the iPad/iPhone camera and utter sentences. This code is intended as the basis for Social Robotics assignments to be done by students enrolled in the European Master in Advanced Robotics (EMARO+) and Robotics Engineering master programmes at the University of Genoa, Italy.
+Send low-level commands to the Double robot, access the iPad/iPhone camera and and utter sentences.
+
+This code is intended as the basis for Social Robotics assignments to be done by students enrolled in the European Master in Advanced Robotics (EMARO+) and Robotics Engineering master programmes at the University of Genoa, Italy.
+
+This code has been developed with Xcode 10 under macOS 10.14.1 (Mojave), targeting iOS 12.01 and tested with an iPad Air 2.
 
 ## Installation
 
-Clone the repository in your working folder:
+Clone the repository:
 
     git clone https://github.com/laboratoriumDIBRIS/double-basic-controller.git
 
 ## Dependencies
 
-This project relies on
+This code relies on:
+* OpenCV
+* Double Basic Control SDK
+
+### OpenCV
+
+1. [Install OpenCV](https://docs.opencv.org/2.4/doc/tutorials/introduction/ios_install/ios_install.html#ios-installation)
+2. Copy <strong>opencv2.framework</strong> in the main folder (where this README is located)
+
+### Double Basic Control SDK
+
+1. Clone (outside of the main folder) the repository:
+
+       git clone https://github.com/doublerobotics/Basic-Control-SDK-iOS.git
+
+2. Copy <strong>DoubleControlSDK.framework</strong> in the main folder (where this README is located)
 
 ## Usage
 
