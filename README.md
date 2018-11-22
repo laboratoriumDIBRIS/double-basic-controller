@@ -5,6 +5,7 @@ Send low-level commands to the Double robot, access the iPad/iPhone camera and a
 This code is intended as the basis for Social Robotics assignments to be done by students enrolled in the European Master in Advanced Robotics (EMARO+) and Robotics Engineering master programmes at the University of Genoa, Italy.
 
 This code has been developed with Xcode 10 under macOS 10.14.1 (Mojave), targeting iOS 12.01.
+
 This code has been tested with an iPad Air 2 running iOS 12.01 and connected to a Double 1 robot.
 
 ## Installation
@@ -26,17 +27,14 @@ This code relies on:
 
 ### Double Basic Control SDK
 
-1. Clone (outside of the main folder) the repository:
-
-       git clone https://github.com/doublerobotics/Basic-Control-SDK-iOS.git
-
+1. Download the [Double Basic Control SDK](https://github.com/doublerobotics/Basic-Control-SDK-iOS) provided by [Double Robotics](http://www.doublerobotics.com).
 2. Copy <strong>DoubleControlSDK.framework</strong> in the main folder (where this README is located)
 
 ## Usage
 
 This is an [Xcode](https://developer.apple.com/xcode/) project.
 
-To open it in Xcode, double click on the file <strong>labDouble.xcodeproj</strong> .
+To open it in Xcode, double click on the file <strong>labDouble.xcodeproj</strong>.
 
 ## Documentation
 
@@ -45,5 +43,3 @@ To open it in Xcode, double click on the file <strong>labDouble.xcodeproj</stron
 ## Author
 
 [Barbara Bruno](https://github.com/bbbruno) e-mail:barbara.bruno@unige.it
-
-This code relies on the [Double Basic Control SDK](https://github.com/doublerobotics/Basic-Control-SDK-iOS) provided by [Double Robotics](http://www.doublerobotics.com).
