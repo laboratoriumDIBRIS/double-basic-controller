@@ -34,11 +34,9 @@ This code relies on:
 
 This is an [Xcode](https://developer.apple.com/xcode/) project.
 
-To open it in Xcode, double click on the file <strong>labDouble.xcodeproj</strong>.
+To open it in Xcode, unzip the file <strong>labDouble.xcodeproj</strong> and double-click it.
 
 ## Documentation
-
-[laboratoriumDIBRIS.github.io/double-basic-controller/](https://laboratoriumDIBRIS.github.io/double-basic-controller/)
 
 ## Author
 
